@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BeatLyrics",
+  "name": "BeatLyrics",
+  "author": "Gabriel Kaszewski",
+  "version": "1.0.0",
+  "description": "Adds lyrics to Beat Saber. It's a fork of BeatSinger by Grégoire Geis",
+  "gameVersion": "1.18.3",
+  "dependsOn": {
+    "BSIPA": "^4.2.0",
+    "SongCore": "^3.9.7"
+  }
+}
